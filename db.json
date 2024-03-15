@@ -1,0 +1,15 @@
+{
+    "companyInfo": {
+        "name": "주식회사 팀스파르타",
+        "description": "우리회사에 대한 설명입니다!",
+        "image": "아무튼이미지임.jpg"
+    },
+    "todos": [
+        {
+            "id": "f2d5",
+            "title": "테스트",
+            "contents": "테스트!",
+            "isDone": false
+        }
+    ]
+}
